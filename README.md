@@ -6,11 +6,11 @@ Workshop 01 of Class Computer Simulation - March 2017
 Questionary
 ----------------------------
 
-1. Generation Pseudo-Random Number 
+### Generation Pseudo-Random Number 
 
 * Implement the minimum standard generator (GEM), seen in class. Don't use generators provides by the chossen programming language.
 
-2. Goodness of fit 
+### Goodness of fit 
 
 With the GEM crated in the previoud point generate two files:
 
