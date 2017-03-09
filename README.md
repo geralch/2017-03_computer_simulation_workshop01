@@ -1,17 +1,23 @@
-# Computer Simulation Workshop 01
+Computer Simulation Workshop 01
+==============
+
 Workshop 01 of Class Computer Simulation - March 2017
+
+Questionary
+----------------------------
 
 1. Generation Pseudo-Random Number 
 
-1.1. Implement the minimum standard generator (GEM), seen in class. Don't use generators provides by the chossen programming language.
+* Implement the minimum standard generator (GEM), seen in class. Don't use generators provides by the chossen programming language.
 
 2. Goodness of fit 
 
 With the GEM crated in the previoud point generate two files:
 
-* GEM1000.txt 1000 generated pseudo-random numbers.
-* GEM10000.txt 10000 generated pseudo-random numbers.
-2.1. Implement the χ² test and Poker 2 and 3 decimales test with confidence α = 0,1. In the execution the table must be shown, 
+- GEM1000.txt 1000 generated pseudo-random numbers.
+- GEM10000.txt 10000 generated pseudo-random numbers.
+
+* Implement the χ² test and Poker 2 and 3 decimales test with confidence α = 0,1. In the execution the table must be shown, 
 where mis indicated:
 	* Class
 	* EF (Expeted Frequency)
@@ -21,3 +27,6 @@ Apply to both cases. In total there are 3 tests for 1000 and 10000 data.
 
 2.2. Select another generator: that of your chossen programming language or an external database and Analyze the results by comparing them.
 
+
+How to Run
+----------------------------
