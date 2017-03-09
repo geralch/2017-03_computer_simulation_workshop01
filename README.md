@@ -41,8 +41,8 @@ How to Run
 Info
 ----------------------------
 [GitHub Repository](https://github.com/geralch/2017-03_computer_simulation_workshop01)
-[GitHub Profile](https://github.com/geralch)
-[Linkeid](https://www.linkedin.com/in/geraldinecaicedohidalgo)
-[ResearchGate](https://www.researchgate.net/profile/Geraldine_Caicedo)
-[Twitter](https://twitter.com/chougeral)
-[WebPage](https://agilenerdnote.tumblr.com/)
+|[GitHub Profile](https://github.com/geralch)
+|[Linkeid](https://www.linkedin.com/in/geraldinecaicedohidalgo)
+|[ResearchGate](https://www.researchgate.net/profile/Geraldine_Caicedo)
+|[Twitter](https://twitter.com/chougeral)
+|[WebPage](https://agilenerdnote.tumblr.com/)
