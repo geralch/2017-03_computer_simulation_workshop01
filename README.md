@@ -42,16 +42,16 @@ The function that execute everithing is:
 gem.printInformation(a,b,c);
 
 where:
-a is the test that you want to run (1: Chi Squared, 2: Poker 2, 3: Poker 3)
-b is the generator that you want to use (0: GEM, 1: Java)
-c is the number of pseudo-random numbers that you want to generate (1.000 or 10.000)
+* a is the test that you want to run (1: Chi Squared, 2: Poker 2, 3: Poker 3)
+* b is the generator that you want to use (0: GEM, 1: Java)
+* c is the number of pseudo-random numbers that you want to generate (1.000 or 10.000)
 
 
 Info
 ----------------------------
 [GitHub Repository](https://github.com/geralch/2017-03_computer_simulation_workshop01)
-|[GitHub Profile](https://github.com/geralch)
-|[Linkeid](https://www.linkedin.com/in/geraldinecaicedohidalgo)
-|[ResearchGate](https://www.researchgate.net/profile/Geraldine_Caicedo)
-|[Twitter](https://twitter.com/chougeral)
-|[WebPage](https://agilenerdnote.tumblr.com/)
+| [GitHub Profile](https://github.com/geralch)
+| [Linkeid](https://www.linkedin.com/in/geraldinecaicedohidalgo)
+| [ResearchGate](https://www.researchgate.net/profile/Geraldine_Caicedo)
+| [Twitter](https://twitter.com/chougeral)
+| [WebPage](https://agilenerdnote.tumblr.com/)
