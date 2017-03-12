@@ -31,11 +31,20 @@ Select another generator: that of your chossen programming language or an extern
 
 Development Information
 ----------------------------
+This Workshop was developed in Java, in NetBeans IDE 8.0.2 in Windows and Linux
 
 
 How to Run
 ----------------------------
+Open the project in NetBeans and uncomment the lines in the main function for execute.
+The function that execute everithing is: 
 
+gem.printInformation(a,b,c);
+
+where:
+a is the test that you want to run (1: Chi Squared, 2: Poker 2, 3: Poker 3)
+b is the generator that you want to use (0: GEM, 1: Java)
+c is the number of pseudo-random numbers that you want to generate (1.000 or 10.000)
 
 
 Info
